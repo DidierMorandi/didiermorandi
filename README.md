@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Egyptology at the Paul Valéry Montpellier 3 University
 - 👯 I’m looking to collaborate on restarting the Tomb Reader Project (see https://tombreaderapp.com/)
 - 🤔 I’m looking for help with iOS programming (as the Tomb Reader App runs on Android only, these days) 
-- 💬 Ask me about GTAV Online :-)
+- 💬 Ask me about GTA V Online :-)
 - 📫 How to reach me: didier.morandi at gmail dot com
 - ⚡ Fun fact: I'm 71 !
 
